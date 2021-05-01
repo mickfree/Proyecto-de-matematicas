@@ -9,7 +9,7 @@ nombres de integrantes:
 
 tareas : 
 -fallecidos diarios (juan jesus)
-- posibilidad de pruebas moleculares(juan jesus)
+-posibilidad de pruebas moleculares(juan jesus)
 -pruebas moleculares(michael romulo)
 -nuevos casos(michael romulo)
 -fallecidos toda causa posible(michale romulo)
