@@ -2,7 +2,8 @@
 Análisis estadístico de muertes por COVID-19
 
                                                          COVID 19
-
+Propuesta:
+"Lo que trata nuestro proyecto  es evidenciar cifras reales y más certeras de los decesos,contagios y situación con respecto a las camas UCI."
 nombres de integrantes:
 -Juan Jesus hilasaca aguilar
 -Michael romulo luna abad
