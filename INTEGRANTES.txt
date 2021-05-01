@@ -1,0 +1,12 @@
+                                                         COVID 19
+
+nombres de integrantes:
+-Juan Jesus hilasaca aguilar
+-Michael romulo luna abad
+
+tareas : 
+-fallecidos diarios (juan jesus)
+- posibilidad de pruebas moleculares(juan jesus)
+-pruebas moleculares(michael romulo)
+-nuevos casos(michael romulo)
+-fallecidos toda causa posible(michale romulo)
