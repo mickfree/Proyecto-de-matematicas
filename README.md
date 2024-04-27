@@ -16,7 +16,7 @@ tareas :
 -fallecidos toda causa posible(michale romulo)
 
 Contact Us:
-MICK: lydoived@gmail.com
+MICHAEL: lydoived@gmail.com
 JUAN: elguitarreroloco9@gmail.com
 
 Programa Utilizado: Python
